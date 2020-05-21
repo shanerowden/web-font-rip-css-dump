@@ -1,8 +1,7 @@
 # google_fonts_rip
 
-I heard that Google was tracking sites and their users through the fonts. With this tool you can rip all the fonts from a google import and dump a CSS file you can host locally. Fuck Google.
+I heard that Google was tracking sites and their users through the fonts. So this is just a web bot that I made for fun, having thought of it.
 
-## Fuck Google
 
 ### Install requirements
 First make sure you install the requirements with `pip install -r requirements.txt`
